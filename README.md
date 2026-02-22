@@ -1,4 +1,4 @@
-# 🛡️ Risk Register (assesment) – Financial Services Environment
+# 🛡️ Risk Register (Risk Assesment) – Financial Services Environment
 
 This project demonstrates a structured risk assessment using a qualitative methodology aligned with industry best practices (ISO 27005, NIST RMF concepts).
 
