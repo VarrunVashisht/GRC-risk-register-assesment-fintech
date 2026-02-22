@@ -11,17 +11,6 @@ It simulates a financial services cloud environment hosted on AWS and walks thro
 
 ---
 
-## 📁 Project Structure
-
-04-risk-assessment/
-│
-├── risk-methodology.md
-├── cloud-risk-register.xlsx
-├── inherent-risk-analysis.md
-├── risk-heat-map.png
-
----
-
 ## 🎯 Objectives
 
 - Apply qualitative risk scoring (Likelihood × Impact)
@@ -70,6 +59,17 @@ The highest inherent risks were related to:
 - Network misconfiguration
 
 Given the financial services context, regulatory and reputational impacts significantly increase overall risk severity.
+
+## Sample Pictures
+
+<img width="680" height="589" alt="image" src="https://github.com/user-attachments/assets/82b73c23-4cca-4020-a414-7ff1a977a085" />
+
+<img width="562" height="344" alt="image" src="https://github.com/user-attachments/assets/a9cc8ed2-c8a1-4ba5-bb25-b52deb7a0db0" />
+
+
+## Complete Project below:
+
+[Risk-Register-Cyber-GRC.xlsx](https://github.com/user-attachments/files/25463357/Risk-Register-Cyber-GRC.xlsx)
 
 ---
 
