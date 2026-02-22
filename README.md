@@ -66,6 +66,8 @@ Given the financial services context, regulatory and reputational impacts signif
 
 <img width="562" height="344" alt="image" src="https://github.com/user-attachments/assets/a9cc8ed2-c8a1-4ba5-bb25-b52deb7a0db0" />
 
+<img width="1733" height="297" alt="image" src="https://github.com/user-attachments/assets/44209017-5010-4a11-8ece-0ba142adca35" />
+
 
 ## Complete Project below:
 
