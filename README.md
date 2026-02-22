@@ -84,5 +84,5 @@ Given the financial services context, regulatory and reputational impacts signif
 
 ## 👤 Author
 
-Varrun Vashisht
+Varrun  
 Cyber Risk & GRC Portfolio Project  
